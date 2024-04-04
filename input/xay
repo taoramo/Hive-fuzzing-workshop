@@ -1,0 +1,1 @@
+echo wow > "infile<dfs>" && cat <"i"n'fil'e"<dfs>" && rm -f "infile<dfs>"

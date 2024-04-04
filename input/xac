@@ -1,0 +1,1 @@
+< infile >tmp/outfile grep W && cat tmp/outfile

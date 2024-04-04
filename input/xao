@@ -1,0 +1,1 @@
+echo hello >out1 > out2 1>out3 1 >out4 1> out5 1 > out6 one>out7 one >out8 one> out9 one > out10 && cat out1 && cat out2 && cat out3 && cat out4 && cat out5 && cat out6 && cat out7 && cat out8 && cat out9 && cat out10

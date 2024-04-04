@@ -1,0 +1,1 @@
+echo hi > a | grep h > b > a > c < a && cat a && cat b && cat c

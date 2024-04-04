@@ -1,0 +1,1 @@
+echo wow > infile1 && echo ok > infile2 && cat <infile1<infile2 && rm -f infile1 && rm -f infile2

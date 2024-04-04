@@ -1,0 +1,1 @@
+echo wow > hello && cat < "hello" && rm -f hello
